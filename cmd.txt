@@ -1,0 +1,4 @@
+hexo server
+
+hexo generate
+hexo deploy

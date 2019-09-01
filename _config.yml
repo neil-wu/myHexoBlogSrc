@@ -10,7 +10,6 @@ author: neilwu
 language: default
 timezone: Asia/Chongqing
 since: 2015
-# since 2015-07-19
 
 avatar: https://avatars1.githubusercontent.com/u/5682948?v=3&s=460
 
@@ -22,12 +21,11 @@ social:
 disqus_shortname: butterflydog
 creative_commons: by-nc-sa
 google_site_verification: LUjAlRCMEtqvvOs30zXqaYf6R8PTTlbDwcR_GnhQz4Q
-cnzz_siteid: 1255873096
-baidu_analytics: c8b39cc701a4291f61a1f7699f2a53c1
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.neilwu.me
+url: https://neil-wu.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -59,7 +57,7 @@ highlight:
   tab_replace: true
 
 # Category & Tag
-default_category: uncategorized
+default_category:  uncategorized
 category_map:
 tag_map:
 
