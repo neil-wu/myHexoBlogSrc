@@ -623,7 +623,7 @@ comments:
 # Disqus
 disqus:
   enable: true
-  shortname: butterflydog
+  shortname: neilwu123
   count: true
   lazyload: true
   #post_meta_order: 0
@@ -815,7 +815,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/wzpan/hexo-generator-search
 local_search:
-  enable: true
+  enable: false
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
