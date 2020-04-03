@@ -11,7 +11,7 @@ comments: true
 mathjax: null
 featured: false
 published: true
-
+date: 2017-07-13
 ---
 
 基于 [theos-jailed](https://github.com/BishopFox/theos-jailed) 的非越狱环境Hook快速开发工作流

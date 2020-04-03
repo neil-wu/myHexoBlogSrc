@@ -20,7 +20,7 @@ social:
 # Disqus
 disqus_shortname: neilwu123
 #creative_commons: by-nc-sa
-google_site_verification: LUjAlRCMEtqvvOs30zXqaYf6R8PTTlbDwcR_GnhQz4Q
+google_site_verification: Wy28vqvjEbiSmpOzA37ORFmHOarotm6p3V7qCOwaGjQ
 
 
 # URL
@@ -76,8 +76,14 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: hexo-theme-next-7.8.0
 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+  
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

@@ -12,7 +12,7 @@ comments: true
 mathjax: null
 featured: false
 published: true
-imagefeature: bg/bg_maple.jpg
+date: 2015-09-04
 
 ---
 在做UI适配的时候，发现个别view定义的leading和trailling margin在iPhone 6 plus下会有一点间隙（4pt），其他则正常，记录一下这个问题的原因。

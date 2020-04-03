@@ -12,8 +12,7 @@ comments: true
 mathjax: null
 featured: false
 published: true
-modified: 2015-9-4
-imagefeature: bg/bg_maple.jpg
+date: 2015-09-04
 
 ---
 

@@ -11,7 +11,7 @@ comments: true
 mathjax: null
 featured: false
 published: true
-imagefeature: bg/bg_maple.jpg
+date: 2016-02-14
 
 ---
 旧版本iOS app下载方法

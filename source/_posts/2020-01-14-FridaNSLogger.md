@@ -11,7 +11,7 @@ comments: true
 mathjax: null
 featured: false
 published: true
-
+date: 2020-01-14
 ---
 
 
@@ -52,13 +52,13 @@ logger.logBinary(testBuf as ArrayBuffer); //发送binary类型日志
 
 FridaNSLoggerViewer 效果如下图：
 <figure>
-	<img src="{{ site.url }}/images/article/FridaNSLoggerViewer.png"></a>
+	<img src="{{ site.url }}/images/article/FridaNSLoggerViewer.png"/>
 </figure>
 
 
 ### 原理 ###
 
-Frida脚步内作为client，利用Frida的 SocketConnection 接口，将日志编码后发送；
+Frida脚本内作为client，利用Frida的 SocketConnection 接口，将日志编码后发送；
 FridaNSLoggerViewer作为socket服务端，可监听局域网内多个client发来的连接。NSLogger原有实现需要加密后的socket数据，FridaNSLoggerViewer对其修改，去掉了加密，支持 raw tcp packet.
 
 
