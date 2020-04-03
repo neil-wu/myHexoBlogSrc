@@ -3,3 +3,11 @@ hexo server
 
 hexo generate
 hexo deploy
+
+
+#
+npm outdated
+npm install -g npm-check-updates
+ncu -u
+npm update
+npm install
