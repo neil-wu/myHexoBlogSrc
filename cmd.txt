@@ -1,4 +1,6 @@
 hexo new post 
+
+hexo clean
 hexo server
 
 hexo generate
